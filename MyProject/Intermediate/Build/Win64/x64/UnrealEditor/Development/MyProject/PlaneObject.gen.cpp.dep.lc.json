@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tribs\\onedrive\\documents\\unreal projects\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\planeobject.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tribs\\onedrive\\documents\\unreal projects\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\tribs\\onedrive\\documents\\unreal projects\\myproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\tribs\\onedrive\\documents\\unreal projects\\myproject\\source\\myproject\\public\\planeobject.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\tribs\\onedrive\\documents\\unreal projects\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\planeobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

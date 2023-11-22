@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Ball.gen.cpp.obj"
+"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PlaneObject.gen.cpp.obj"
+"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
+"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Ball.cpp.obj"
+"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PlaneObject.cpp.obj"
+"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Default.rc2.res"
+/OUT:"C:\Users\Tribs\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject.lib"
